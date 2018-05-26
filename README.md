@@ -3,6 +3,9 @@ lib_mcp23017
 
 Simple python library for MCP23017
 
+## May 2018 - This is no longer being maintained by the original author.
+## Please feel free to fork, copy, adapt if you find it useable
+
 For Raspberry Pi (at 3.3V) or "Virtual-GPIO" (at 5V)
 
 A totally simple bit-based I/O class for 16 digital pins on MCP23107. No interrupts, no inversions.
